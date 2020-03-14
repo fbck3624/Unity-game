@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Q.unity
+    guid: 8c924520ad9ed1d4d9aa5be73d6db4ca
+  - enabled: 1
+    path: Assets/Scenes/new.unity
+    guid: 2268dbd43f81c734686ea6a6f09cec21
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 5d359c63933d5ad4982fd7f399cc8853
+  - enabled: 1
+    path: Assets/Scenes/tt.unity
+    guid: 8b518b1e72eb2bb49b6c01617299c2d6
+  - enabled: 1
+    path: Assets/Scenes/drug.unity
+    guid: fb7f4d832d48f0f4da5e36ca865f3629
+  - enabled: 1
+    path: Assets/Scenes/exit.unity
+    guid: 45a8a73d329c5394f92ddb02a8b86b88
+  - enabled: 1
+    path: Assets/Scenes/pay.unity
+    guid: 3b55674336effb6418d51871644ab1c7
+  - enabled: 1
+    path: Assets/Scenes/Success.unity
+    guid: 27116fcd6ed9b5c49a49435e61da5e8e
+  - enabled: 1
+    path: Assets/Scenes/village.unity
+    guid: 0eced09bd80235541bc38f65bb23e6a3
+  - enabled: 1
+    path: Assets/Scenes/village2.unity
+    guid: 288a00512d4a0eb4fbfc1d5a5fdfef1e
+  - enabled: 1
+    path: Assets/Scenes/village3.unity
+    guid: 40188b8935e8ff54fb0ba851be3c4206
+  - enabled: 1
+    path: Assets/Scenes/SuccessK.unity
+    guid: 7606b40e60ddba745ab2ba2f4f0cc641
+  - enabled: 1
+    path: Assets/Scenes/practice.unity
+    guid: dd64d066e282ff24c835e44bce60853b
+  - enabled: 1
+    path: Assets/Scenes/village4.unity
+    guid: 30caa6a17b0531f429da66e117c716e6
+  - enabled: 1
+    path: Assets/Scenes/Failes.unity
+    guid: 6b57b05bd074a904da61438a4bf9b913
+  - enabled: 1
+    path: Assets/Scenes/wangsijian.unity
+    guid: 5ec68146da062204981e67f537358a52
+  - enabled: 1
+    path: Assets/Scenes/winner.unity
+    guid: 2b3a00058d5cbdc4a954c1a47077e7ea
+  - enabled: 1
+    path: Assets/Scenes/ask.unity
+    guid: 12bc3173a106f2a459331f07fe0ee5f2
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/camp.unity
+    guid: f470842b5bee880458d50cdb73835f2f
+  - enabled: 1
+    path: Assets/Scenes/camp2.unity
+    guid: 574b2de8518838545ad607dd1bfa9d12
+  - enabled: 1
+    path: Assets/Scenes/help.unity
+    guid: b64a14a0c11a9b741865f2a6d8b73cb7
+  - enabled: 1
+    path: Assets/Scenes/door.unity
+    guid: 2403a9937c345474d83bcb1601e1ee82
+  - enabled: 1
+    path: Assets/Scenes/goback.unity
+    guid: c4237416d29ff0044abab54a81b98c4c
+  - enabled: 1
+    path: Assets/Scenes/kill.unity
+    guid: ae6342a7676580043a9ae8c077fbf90d
+  - enabled: 1
+    path: Assets/Scenes/mountain2.unity
+    guid: f71f8e34c2aa9914195de1cfb2f59b27
+  - enabled: 1
+    path: Assets/Scenes/mountain.unity
+    guid: 260a4d5da246a0c4a89b09a842070557
+  - enabled: 1
+    path: Assets/Scenes/listen.unity
+    guid: 9d3d66a978829934593c408c94adb932
+  - enabled: 1
+    path: Assets/Scenes/Koreafish.unity
+    guid: fcedc771cf345ea419ed6f92dfd07ad4
+  - enabled: 1
+    path: Assets/Scenes/cry.unity
+    guid: 51a5b71d05b113b47b0447ed3cbd60f5
+  - enabled: 1
+    path: Assets/Scenes/end.unity
+    guid: cbe907ceed38aee4685de7deca07ea07
+  m_configObjects: {}
